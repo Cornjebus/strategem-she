@@ -8,10 +8,10 @@ export const metadata: Metadata = {
 
 const milestones = [
   { year: "1987", event: "Founded with a vision to transform political consulting" },
-  { year: "2008", event: "Obama Presidential Campaign advisory role" },
+  { year: "2000s", event: "First presidential campaign advisory role" },
   { year: "2012", event: "Expanded to comprehensive campaign management" },
-  { year: "2020", event: "Biden-Harris Presidential Campaign involvement" },
-  { year: "2024", event: "Harris Presidential Campaign strategic support" },
+  { year: "2020", event: "Multiple presidential campaign involvement" },
+  { year: "2024", event: "Continued national-level strategic support" },
   { year: "Today", event: "Speakers Bureau launch and continued excellence" },
 ];
 
@@ -122,7 +122,7 @@ export default function AboutPage() {
               <p className="mb-6">
                 A cultural interpreter by nature and a strategic architect by training, Dr. Evans
                 has advised campaigns at every level—from local school board races to presidential
-                campaigns. Her work with the Obama, Biden, and Harris presidential campaigns
+                campaigns. Her involvement in multiple presidential campaigns across party lines
                 demonstrates her ability to operate at the highest levels of American politics while
                 maintaining the personal touch that defines Strategem She.
               </p>

@@ -38,7 +38,7 @@ const services = [
 const credibilityItems = [
   { label: "Years of Experience", value: "37+", color: "text-brand-green" },
   { label: "PhD Leadership", value: "Academic Excellence", color: "text-brand-pink" },
-  { label: "Presidential Campaigns", value: "Obama • Biden • Harris", color: "text-brand-black" },
+  { label: "Presidential Campaigns", value: "National Experience", color: "text-brand-black" },
 ];
 
 export default function Home() {
