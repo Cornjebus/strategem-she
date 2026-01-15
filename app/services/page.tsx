@@ -249,8 +249,8 @@ export default function ServicesPage() {
             <Link href="/contact" className="btn-primary text-lg">
               Schedule Free Consultation
             </Link>
-            <a href="tel:+12525086343" className="btn-outline text-lg border-white text-white hover:bg-white hover:text-brand-black">
-              Call (252) 508-6343
+            <a href="tel:+19195783609" className="btn-outline text-lg border-white text-white hover:bg-white hover:text-brand-black">
+              Call (919) 578-3609
             </a>
           </div>
         </div>
